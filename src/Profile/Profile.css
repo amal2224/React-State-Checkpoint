@@ -1,0 +1,29 @@
+.containerProfil{
+    margin:10px 50px 0 50px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    border-style: dashed solid;
+    border-color: #0077b6;
+    padding: 10px 50px 10px 100px;
+}
+
+h2{
+    padding-right: 50px;
+}
+
+#imagestyle {
+    width:350px;
+    height:400px;
+    margin-top: 50px;
+    right: 50px;
+
+}
+
+.info{
+    width: 500px;
+    margin-top: 50px;
+    margin-right: 200px;
+    display: flex;
+    flex-direction: column;
+}
